@@ -108,6 +108,9 @@ More information:
 * [allOrigins](http://allorigins.win)
 * [CORS Anywhere](https://github.com/Rob--W/cors-anywhere)
 
+***My browser crashed when I was using this tool***
+You were probably not using Chrome. We recommend Google Chrome because, in the tests we made, it was able to manage large decks without using too much memory when performing the export.
+
 ***Who was Cardlos?***  
 Cardlos was the name of the [Tinycards mascot](https://forum.duolingo.com/comment/39200018). In a [parallel dimension](https://twitter.com/tinycardsapp/status/844977416414154752) he was also known as [Tiny](https://twitter.com/tinycardsapp/status/847487862010331136).
 
