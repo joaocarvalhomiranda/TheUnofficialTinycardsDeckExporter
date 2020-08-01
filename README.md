@@ -69,7 +69,7 @@ It will create an Export button close to the deck information (look for the Pin 
 
 ## Requirements
 To use the deck exporter, you need a modern desktop browser and an Internet connection.
-We recommend [Google Chrome](https://www.google.com/chrome/) because, in the tests we made, it was able to manage large decks without using too much memory when performing the export.
+We recommend [Google Chrome](https://www.google.com/chrome/) because, in the tests we made, it was able to manage large decks without using too much memory when performing the export. [Firefox](http://firefox.com) performed well only when the decks were not large and didn't have too many pictures.
 
 ### Needed for the deck exporter to run
 For the deck exporter to run, the following websites need to be up and running and reachable from your network:
@@ -109,7 +109,7 @@ More information:
 * [CORS Anywhere](https://github.com/Rob--W/cors-anywhere)
 
 ***My browser crashed when I was using this tool***  
-You were probably not using Chrome. We recommend Google Chrome because, in the tests we made, it was able to manage large decks without using too much memory when performing the export.
+You were probably not using Chrome. We recommend Google Chrome because, in the tests we made, it was able to manage large decks without using too much memory when performing the export. [Firefox](http://firefox.com) performed well only when the decks were not large and didn't have too many pictures.
 
 ***Who was Cardlos?***  
 Cardlos was the name of the [Tinycards mascot](https://forum.duolingo.com/comment/39200018). In a [parallel dimension](https://twitter.com/tinycardsapp/status/844977416414154752) he was also known as [Tiny](https://twitter.com/tinycardsapp/status/847487862010331136).
