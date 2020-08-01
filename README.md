@@ -108,7 +108,7 @@ More information:
 * [allOrigins](http://allorigins.win)
 * [CORS Anywhere](https://github.com/Rob--W/cors-anywhere)
 
-***My browser crashed when I was using this tool***
+***My browser crashed when I was using this tool***  
 You were probably not using Chrome. We recommend Google Chrome because, in the tests we made, it was able to manage large decks without using too much memory when performing the export.
 
 ***Who was Cardlos?***  
