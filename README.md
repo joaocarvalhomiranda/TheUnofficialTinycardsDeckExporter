@@ -31,8 +31,9 @@ If you're familiar with Tampermonkey, use the following code:
 // ==UserScript==
 // @name         The Unofficial Tinycards Deck Exporter
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0.0
 // @description  Adds an Export button to a deck's page
+// @description  https://github.com/joaocarvalhomiranda/TheUnofficialTinycardsDeckExporter
 // @author       Joao Miranda
 // @include      https://tinycards.duolingo.com/decks/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
