@@ -102,7 +102,7 @@ Press F12 to see the browser's console and check for any errors in red.
 ***The Tinycards page is gone. Can I still use this tool to export a Tinycards deck?***  
 This tool only works on the Tinycards deck page that you want to export. If the deck page is no longer accessible the tool won't work.
 
-***allOrigins is down or not working anymore***  
+***allOrigins is down or not working any more***  
 Try to find an alternative to it and replace it in the code. You can also set up your own server for dealing with the requests.  
 More information:
 * [allOrigins](http://allorigins.win)
@@ -110,6 +110,9 @@ More information:
 
 ***My browser crashed when I was using this tool***  
 You were probably not using Chrome. We recommend Google Chrome because, in the tests we made, it was able to manage large decks without using too much memory when performing the export. [Firefox](http://firefox.com) performed well only when the decks were not large and didn't have too many pictures.
+
+***Can I download my unfinished decks with this tool?***  
+No. This tool can only download publicly accessible decks.
 
 ***Who was Cardlos?***  
 Cardlos was the name of the [Tinycards mascot](https://forum.duolingo.com/comment/39200018). In a [parallel dimension](https://twitter.com/tinycardsapp/status/844977416414154752) he was also known as [Tiny](https://twitter.com/tinycardsapp/status/847487862010331136).
